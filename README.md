@@ -1,5 +1,5 @@
 [![](https://jitpack.io/v/alphatech-apps/RateUsDialog.svg)](https://jitpack.io/#alphatech-apps/RateUsDialog)
-
+(https://jitpack.io/v/alphatech-apps/RateUsDialog.svg)](
 How to
 To get a Git project into your build:
 
